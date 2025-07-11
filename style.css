@@ -15,7 +15,7 @@ header{
 }
 
 .navigation{
-    margin: 0 200px;
+    margin: 5px 180px;
     display: flex;
     justify-content: space-between;
     align-items: center;
