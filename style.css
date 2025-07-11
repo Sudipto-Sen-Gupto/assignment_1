@@ -9,41 +9,47 @@ header{
     background-size:cover ;
     background-repeat: no-repeat;
 
-    width: 90%;
-    margin: 0 auto;
-    height: 1000px;
+    /* width: 90%; */
+    /* margin: 0 auto; */
+    height: 1150px;
 }
 
 .navigation{
-    margin: 50px 100px;
+    margin: 0 200px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 .navlogo{
+
     color: blue;
     font-size: 20px;
     font-weight: 1000px;
 }
+
 .banner{
-   font-size: 50px;
+   font-size: 60px;
    margin-top: 10%;
    text-align: center;
+}
+.banner h1{
+    margin-bottom: 0;
+   
 }
 .btn{
     
     background-color: blue;
     color: white;
-    font-size: 20px;
-    padding: 15px 20px;
+    font-size: 25px;
+    padding: 15px 30px;
     border-radius: 15px;
-    margin-top:50px;
+    margin-top:20px;
 }
 
 /* main section start */
 /* section 1 */
 .detail{
-    width: 85%;
+    width: 90%;
     margin:80px auto;
      
 }
@@ -53,11 +59,13 @@ header{
 
 }
 .secdetail{
-       width: 380px;
+       width: 500px;
        text-align: justify;
        margin-top:60px;
-       font-size: 20px;
+       font-size: 30px;
 }
+
+
 .secimage img{
          margin-top: 50px;
          border: 2px solid black;
@@ -156,7 +164,7 @@ margin-top: 100px;
 padding:  15px 0;}
 .headsec{
       width: 50%;
-       font-size: 80px;
+       font-size: 90px;
 }
 .secform{
     width: 50%;
@@ -212,7 +220,7 @@ margin-bottom: 30px;
  
 }
  .list ul li{
- list-style-type:none;margin: 
+ list-style-type:none;
  }
 
  .list ul li a{
