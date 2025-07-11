@@ -221,4 +221,10 @@ margin-bottom: 30px;
     font-size: 25px;
  }
 
+ .subbtn:hover,.btn:hover{
+    background-color: rgb(99, 6, 6);
+    color: white;
+    font-family: cursive;
+ }
+
 
