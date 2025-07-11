@@ -36,5 +36,30 @@ header{
     font-size: 20px;
     padding: 15px 20px;
     border-radius: 15px;
-    margin-top:50px ;
+    margin-top:50px;
 }
+
+/* main section start */
+.detail{
+    width: 85%;
+    margin:80px auto;
+     
+}
+.section1{
+           display: flex;
+           justify-content: space-around;
+
+}
+.secdetail{
+       width: 380px;
+       text-align: justify;
+       margin-top:60px;
+       font-size: 20px;
+}
+.secimage img{
+         margin-top: 50px;
+         border: 2px solid black;
+         border-radius: 50px;
+}
+
+
