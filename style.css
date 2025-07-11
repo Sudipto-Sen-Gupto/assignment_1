@@ -184,4 +184,41 @@ margin-bottom: 30px;
 }
 
 
+/* footer section */
+.foot{
+            text-align: center;
+            padding: 70px;
+            background-color: white;
+}
+.foot h1{
+         font-size: 80px;
+         color: blue;
+         margin-bottom: 0;
+}
+.foot p{
+        font-size: 25px;
+        width: 900px;
+         margin: 0 auto;
+         color: rgb(71, 68, 68);
+}
+
+.list{
+ display: flex;
+ gap: 20px;
+ justify-content: center;
+}
+
+.list ul{
+ 
+}
+ .list ul li{
+ list-style-type:none;margin: 
+ }
+
+ .list ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+ }
+
 
