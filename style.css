@@ -116,6 +116,7 @@ margin-top: 200px;
  background-color:white;
   padding: 30px;
   width: 500px;
+  border-radius: 50px;
 }
 .divi p{
     font-size: 35px;
@@ -129,6 +130,23 @@ margin-top: 200px;
     width: 90px;
 }
 
+/* section4 */
+.section4{
+ text-align: center;
+ margin-top: 80px;
+ background-color: white;
+ border-radius: 50px;
+ padding: 30px 10px;
+}
+.section4 p{
+font-size: 25px;
+margin-bottom: 0;
+}
+.section4 img{
+display: block;
+margin: 10px auto;
+border-radius: 65px;
+}
 
 
 
