@@ -40,6 +40,7 @@ header{
 }
 
 /* main section start */
+/* section 1 */
 .detail{
     width: 85%;
     margin:80px auto;
@@ -47,7 +48,7 @@ header{
 }
 .section1{
            display: flex;
-           justify-content: space-around;
+           justify-content: space-between;
 
 }
 .secdetail{
@@ -61,5 +62,43 @@ header{
          border: 2px solid black;
          border-radius: 50px;
 }
+/* 
+section 2 */
+
+.section2{
+    background-color: rgb(212, 220, 235);
+    padding: 10px 20px;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+
+.headdesign{
+    text-align: center;
+    font-size: 70px;
+     
+    
+}
+.sectiondesign{
+   
+    display: flex;
+    gap: 300px;
+    justify-content: center;
+
+}
+.secmeasure h1{
+         font-size: 100px;
+         color: rgb(41, 41, 210);
+         margin-bottom: 0;
+}
+.secmeasure p{
+             font-size: 30px;
+             color: rgb(32, 28, 28);
+             text-align: center;
+             margin-top: 0;
+}
+
+
+
+
 
 
