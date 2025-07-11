@@ -165,6 +165,7 @@ padding:  15px 0;}
 .headsec{
       width: 50%;
        font-size: 90px;
+       align-items: center;
 }
 .secform{
     width: 50%;
